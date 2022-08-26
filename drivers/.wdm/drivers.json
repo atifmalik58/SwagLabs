@@ -1,0 +1,18 @@
+{
+    "win32_chromedriver_104.0.5112_for_104.0.5112": {
+        "timestamp": "26/08/2022",
+        "binary_path": ".\\\\Drivers\\.wdm\\drivers\\chromedriver\\win32\\104.0.5112\\chromedriver.exe"
+    },
+    "win64_geckodriver_0.31_for_104.0": {
+        "timestamp": "26/08/2022",
+        "binary_path": ".\\\\drivers\\.wdm\\drivers\\geckodriver\\win64\\0.31\\geckodriver.exe"
+    },
+    "win32_chromedriver_103.0.5060_for_104.0.5112": {
+        "timestamp": "26/08/2022",
+        "binary_path": ".\\\\drivers\\.wdm\\drivers\\chromedriver\\win32\\103.0.5060\\chromedriver.exe"
+    },
+    "win64_geckodriver_0.30_for_104.0": {
+        "timestamp": "26/08/2022",
+        "binary_path": ".\\\\drivers\\.wdm\\drivers\\geckodriver\\win64\\0.30\\geckodriver.exe"
+    }
+}
